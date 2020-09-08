@@ -5,7 +5,7 @@ There are two subprograms:
 
 - **singleNum** follows this pattern using a user-given start number.
 
-- **allNums** brute-force-checks all interger numbers (up to 1 000 000 which takes ~1–2 hours to reach) trying to find the most loop-resistant number.
+- **allNums** brute-force-checks all integer numbers (up to 1 000 000 which takes ~1–2 hours to reach) trying to find the most loop-resistant number.
 
 # Compiling
 *"make"*
